@@ -1,0 +1,6 @@
+[submodule "philsophism"]
+	path = philsophism
+	url = https://github.com/cardinalcat/philosophism
+[submodule "drone-camera"]
+	path = drone-camera
+	url = https://github.com/cardinalcat/drone-camera
